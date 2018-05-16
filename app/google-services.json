@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "233532600653",
+    "firebase_url": "https://mylimodriver-cb94a.firebaseio.com",
+    "project_id": "mylimodriver-cb94a",
+    "storage_bucket": "mylimodriver-cb94a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233532600653:android:45eb3ffc05918419",
+        "android_client_info": {
+          "package_name": "ranglerz.mylimodriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233532600653-7le25ek1ud4sqs929t9gbi7t5ach6f2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ranglerz.mylimodriver",
+            "certificate_hash": "5f57386e761baeafb52c64868974b79af2d45a21"
+          }
+        },
+        {
+          "client_id": "233532600653-nk0lek5sahu7djq73evbb3j0q3ut3h0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYguzeGag-Gb3iRmx_r5XnDXIBtoE2irI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233532600653-nk0lek5sahu7djq73evbb3j0q3ut3h0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

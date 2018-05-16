@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/my_id">
+
+        <item
+            android:title="Dashboard"
+            android:icon="@drawable/dashboard"
+            android:id="@+id/nav_item_home"/>
+        <item
+            android:title="Ride History"
+            android:icon="@drawable/my_orders"
+            android:id="@+id/nav_item_my_orders"
+            app:actionLayout="@layout/action_layout" />
+
+        <item
+            android:title="About Us"
+            android:icon="@drawable/about_us"
+            android:id="@+id/nav_item_about">
+
+        </item>
+
+        <item
+            android:title="Contact Us"
+            android:icon="@drawable/contact_uc"
+            android:id="@+id/nav_item_contact_us"/>
+
+        <item
+            android:title="Logout"
+            android:icon="@drawable/logout"
+            android:id="@+id/nav_item_logout"/>
+
+    <!--    <item
+            android:title="Feedback"
+            android:icon="@drawable/contact_uc"
+            android:id="@+id/feedback"/>-->
+
+    </group>
+
+    <group android:id="@+id/myafda"
+        android:menuCategory="container">
+
+
+    </group>
+
+
+
+</menu>
