@@ -121,7 +121,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     //***********
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -276,8 +275,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 inisialization(latLng);
 
             }
-
-
 
              LocationServices.FusedLocationApi.requestLocationUpdates(mGoogleApiClient, mLocationRequest, this);
         }
